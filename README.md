@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 💡 I'm a **Data Analyst** who loves transforming numbers into narratives.  
-🚀 Currently exploring **Machine Learning** and **Big Data tools (Spark, Snowflake)**.  
+🚀 Currently exploring **Machine Learning** and **Big Data tools Snowflake**.  
 💬 I'm always open to **collaboration** on real-world datasets, dashboards, or predictive models.  
 🌎 Let's connect and make data meaningful!
 
