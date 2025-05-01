@@ -1,6 +1,3 @@
-<!-- 🌐 Custom Header Banner -->
-<img src="" alt="Arpit Rupauliha Banner" width="100%" />
-
 <h1 align="center">👋 Hi, I'm <span style="color:#0096FF">Arpit Rupauliha</span></h1>
 <h3 align="center">📊 Data Analyst • Storyteller with Data • Excel | Python | SQL | Power BI</h3>
 
@@ -55,17 +52,7 @@
 🟢 **[SQL Case Studies](https://github.com/yourusername/sql-portfolio)**  
 🗄️ Real-world queries to clean, aggregate, and analyze datasets from scratch.
 
----
 
-### 📸 My Work Showcase
-
-<p align="center">
-  <img src="https://i.imgur.com/E3gTCqC.png" width="30%" alt="Power BI Dashboard" />
-  <img src="https://i.imgur.com/o5PXruD.png" width="30%" alt="SQL Dashboard" />
-  <img src="https://i.imgur.com/WgW5cnf.png" width="30%" alt="Python Visualization" />
-</p>
-
----
 
 ### 💬 Let's Collaborate
 
