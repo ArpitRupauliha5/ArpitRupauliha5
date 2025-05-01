@@ -43,7 +43,8 @@
 
 ### 🚀 Featured Projects
 
-🟡 **[Sales Dashboard – Power BI](https://github.com/yourusername/powerbi-sales-dashboard)**  
+🟡 **[Sales Dashboard – Excel]([Walmart Project.xlsx](https://github.com/user-attachments/files/19998921/Walmart.Project.xlsx)
+)**  
 📊 Dynamic dashboard with KPIs for retail performance and customer segmentation.
 
 🔵 **[Customer Churn Prediction – Python](https://github.com/yourusername/churn-model)**  
