@@ -44,6 +44,8 @@
 ### 🚀 Featured Projects
 
 🟡 **[Sales Dashboard – Excel]([Walmart Project.xlsx](https://github.com/user-attachments/files/19998921/Walmart.Project.xlsx)
+     [Pizza_Data_Set.xlsx](https://github.com/user-attachments/files/20162130/Pizza_Data_Set.xlsx)
+
 )**  
 📊 Dynamic dashboard with KPIs for retail performance and customer segmentation.
 
