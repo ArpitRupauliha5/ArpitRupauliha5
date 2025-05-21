@@ -50,7 +50,7 @@
 🔵 **[Customer Churn Prediction – Python](https://github.com/yourusername/churn-model)**  
 📉 Built a logistic regression model to identify potential churners using Pandas & Scikit-learn.
 
-🟢 **[SQL Case Studies](https://github.com/yourusername/sql-portfolio)**  
+🟢 **[SQL Case Studies]https://github.com/ArpitRupauliha5/SQL_Music_Store_Analysis.githttps://github.com/ArpitRupauliha5/SQL_Music_Store_Analysis.git(https://github.com/yourusername/sql-portfolio)**  
 🗄️ Real-world queries to clean, aggregate, and analyze datasets from scratch.
 
 
