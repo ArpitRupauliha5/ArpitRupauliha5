@@ -52,7 +52,7 @@
 
 #### 🟢 SQL Case Studies
 🗄️ Real-world queries to clean, transform, and analyze datasets  
-🔗 [Explore SQL Portfolio](https://github.com/yourusername/sql-portfolio)
+🔗 [Explore SQL Portfolio](https://github.com/ArpitRupauliha5/SQL_Music_Store_Analysis/blob/main/Music%20Store%20Analysis.sql)
 
 ---
 
