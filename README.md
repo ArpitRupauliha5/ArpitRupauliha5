@@ -15,8 +15,8 @@
 ### 🧠 About Me
 
 💡 I'm a **Data Analyst** who loves transforming numbers into narratives.  
-🚀 Currently exploring **Machine Learning** and **Big Data tools Snowflake**.  
-💬 I'm always open to **collaboration** on real-world datasets, dashboards, or predictive models.  
+🚀 Currently exploring **Machine Learning** and **Big Data tools like Snowflake**.  
+💬 Open to **collaboration** on real-world datasets, dashboards, or predictive models.  
 🌎 Let's connect and make data meaningful!
 
 ---
@@ -43,18 +43,34 @@
 
 ### 🚀 Featured Projects
 
-🟡 **[Sales Dashboard – Excel]([Walmart Project.xlsx](https://github.com/user-attachments/files/19998921/Walmart.Project.xlsx)
-     ,[Pizza_Data_Set.xlsx](https://github.com/user-attachments/files/20162130/Pizza_Data_Set.xlsx))**  
-📊 Dynamic dashboard with KPIs for retail performance and customer segmentation.
+#### 🟡 Sales Dashboard – Excel
+📊 Dynamic retail dashboards built in Excel with slicers, KPIs, customer segmentation  
+📁 [Download Walmart Project Dataset](https://github.com/user-attachments/files/19998921/Walmart.Project.xlsx)  
+📁 [Download Pizza Dataset](https://github.com/user-attachments/files/20162130/Pizza_Data_Set.xlsx)
 
-🔵 **[Customer Churn Prediction – Python](https://github.com/yourusername/churn-model)**  
-📉 Built a logistic regression model to identify potential churners using Pandas & Scikit-learn.
+---
 
-🟢 **[SQL Case Studies]()
-   (https://github.com/yourusername/sql-portfolio)**  
-🗄️ Real-world queries to clean, aggregate, and analyze datasets from scratch.
+#### 🟢 SQL Case Studies
+🗄️ Real-world queries to clean, transform, and analyze datasets  
+🔗 [Explore SQL Portfolio](https://github.com/yourusername/sql-portfolio)
 
+---
 
+#### 🔵 Customer Churn Prediction – Python
+📉 Logistic regression to identify customer churners  
+📊 Tools: Pandas, Scikit-learn, Matplotlib  
+🔗 [Churn Model Repo](https://github.com/yourusername/churn-model)
+
+---
+
+#### 🟠 Power BI – Mobile Sales Dashboard
+📌 Complete mobile sales report with KPI cards, map visuals, filters, and trendlines  
+📍 Features: Sales breakdown by model, city, month, rating status, and payment methods  
+📷 [Dashboard Screenshot](https://github.com/yourusername/assets/blob/main/mobile_sales_dashboard.png)  
+📁 [Download Dataset (Excel)](https://github.com/yourusername/assets/blob/main/Mobile%20Sales%20Data.xlsx)  
+📄 [README for Dashboard](https://github.com/yourusername/assets/blob/main/MobileSalesDashboard_README.md)
+
+---
 
 ### 💬 Let's Collaborate
 
