@@ -67,8 +67,8 @@
 📌 Complete mobile sales report with KPI cards, map visuals, filters, and trendlines  
 📍 Features: Sales breakdown by model, city, month, rating status, and payment methods  
 📷 [Dashboard Screenshot](https://github.com/yourusername/assets/blob/main/mobile_sales_dashboard.png)  
-📁 [Download Dataset (Excel)](https://github.com/yourusername/assets/blob/main/Mobile%20Sales%20Data.xlsx)  
-📄 [README for Dashboard](https://github.com/ArpitRupauliha5/Power-BI-Mobile-Sales/blob/main/README.md)
+📁 [Download Dataset (Excel)](https://github.com/ArpitRupauliha5/Power-BI-Mobile-Sales/blob/main/Mobile%20Sales%20Data.xlsx)  
+📄 [README for Dashboard]https://github.com/ArpitRupauliha5/Power-BI-Mobile-Sales/blob/main/README.md
 
 ### 💬 Let's Collaborate
 
